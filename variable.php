@@ -29,6 +29,5 @@
     echo "<br/>";
     echo "server: ".SERVER_NAME.', db: '.DATABASE_NAME;
     
-    
 
 ?>
